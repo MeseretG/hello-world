@@ -1,2 +1,2 @@
 # hello-world
-Getting familiar with GitHub again basics after a few years hiatus. 
+Getting familiar with GitHub again after a few years hiatus. 
